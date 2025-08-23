@@ -126,3 +126,128 @@ AI 모델을 활용하여 시장의 미래를 예측하는 도구입니다.
 
 - **공격형(단일타임/다중타임)**: 보조지표 기반 공격 전략
 - **방어형(단일타임/다중타임)**: 보조지표 기반 방어 전략
+
+---
+---
+
+# thdtjsdn.com -- Application Overview
+
+This application is a suite of executable services provided by [http://thdtjsdn.com](http://thdtjsdn.com).  
+Please review the key features below and access each service via its respective button.
+
+> ⚠️ Note: Executables require administrator privileges but do **not** contain malware.  
+> Due to the absence of a paid certificate, some systems may misidentify it as malicious.  
+> To avoid issues, exclude the application folder from Windows Defender or other security software.
+
+---
+
+## 1. AI Forecast
+
+A tool that uses AI models to predict future market trends.  
+Performance depends heavily on the device used.  
+Modern smartphones like Galaxy or iPhone may outperform low-end PCs.
+
+- **GPU_10Days**: Predicts market trends for 10 days using GPU-based AI models.
+
+---
+
+## 2. Analysis Dashboard
+
+A visual dashboard for in-depth market analysis using various indicators.
+
+- **Technical Analysis**: Charts based on key technical indicators (daily, weekly, monthly data).
+- **Overlay Chart**: Compare multiple datasets on a single chart.
+- **Sentiment Chart**: Visualizes market participants' sentiment index.
+- **Map Index**: Displays indices in a geographic map format.
+- **Map Futures**: Visualizes futures market trends on a map.
+
+---
+
+## 3. Binance Radar
+
+Real-time tracking of market trends based on transaction volumes from Binance.  
+Radar-style charts.
+
+- **All**: Trends of all coins.
+- **Major**: Trends of major coins.
+- **Minor**: Trends of minor coins.
+- **2-Split**: Analysis in two sections.
+- **3-Split Bubble**: Three sections + bubble chart.
+- **3-Split Voice**: Three sections + voice alerts.
+
+---
+
+## 4. Chart Analysis Tools
+
+Tools for analyzing cryptocurrency charts in various formats.
+
+- **Single Bubble**: Bubble chart for a single asset.
+- **Supply/Demand Shooting**: Chart based on buy/sell pressure.
+- **Supply/Demand Bubble**: Combines supply/demand with bubble chart.
+- **Supply/Demand Wave**: Visualizes flow as wave patterns.
+
+---
+
+## 5. Binance Dashboard
+
+Dashboard specialized for Binance exchange.
+
+- **Indicators**: Uses various technical indicators.
+- **Voice**: Includes voice alert functionality.
+
+---
+
+## 6. Korea Coin Radar
+
+Real-time tracking of transaction volumes from Korean crypto exchanges.  
+Radar-style charts.
+
+- **Bithumb**: Analysis of Bithumb exchange.
+- **Upbit**: Analysis of Upbit exchange.
+
+---
+
+## 7. Korea Stock Radar
+
+Real-time tracking of transaction volumes in the Korean stock market.  
+Radar-style charts.  
+Different format from U.S. Stock Radar and After-Hours Radar.
+
+- **Korea Cumulative**: Analyzes daily cumulative transaction flow.
+- **Korea Live**: Analyzes flow from the moment of access.
+- **2-Split**: Two-section analysis.
+
+---
+
+## 8. U.S. Stock Radar
+
+Real-time tracking of transaction volumes in the U.S. stock market.  
+Radar-style charts.  
+Different format from Korea Stock Radar.
+
+- **U.S. Cumulative**: Daily cumulative transaction flow.
+- **U.S. Live**: Flow from the moment of access.
+- **Live_Coin**: Correlation analysis between U.S. stock flow and crypto market.  
+  *Currently available to administrators only.*
+
+---
+
+## 9. After-Hours Radar (U.S. & Korea)
+
+Real-time tracking of transaction volumes in after-hours markets.  
+Radar-style charts.  
+Covers pre-market, regular, and after-hours sessions.  
+Different format from Korea Stock Radar.  
+*Currently available to administrators only.*
+
+- **U.S._Korea**: Simultaneous analysis of U.S. and Korean after-hours markets.
+
+---
+
+## 10. Auto Trading
+
+Automated trading services based on various strategies.  
+*Currently available to administrators only.*
+
+- **Aggressive (Single/Multiple Timeframes)**: Indicator-based aggressive strategies.
+- **Defensive (Single/Multiple Timeframes)**: Indicator-based defensive strategies.
