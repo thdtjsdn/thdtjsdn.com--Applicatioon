@@ -1,5 +1,10 @@
 # thdtjsdn.com -- Application
 
+> ZIP으로 다운 받아도 [`resources.dll`](https://github.com/thdtjsdn/thdtjsdn.com--Applicatioon/blob/main/resources.dll) 파일은 개별로 다시 다운 받아서 덮어써야합니다.  
+> 용량크기로 인해 LFS 문제입니다.
+
+---
+
 > ⚠️ **주의사항**  
 > 이 애플리케이션은 실행 시 관리자 권한을 요구하지만, **악성코드가 포함되어 있지 않습니다.**  
 > 유료 인증서를 구매하지 않았기 때문에 일부 보안 프로그램에서 **오탐지**될 수 있습니다.  
