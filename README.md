@@ -1,6 +1,6 @@
 # thdtjsdn.com -- Application
 
-이 애플리케이션은 http://thdtjsdn.com에서 제공하는 실행 가능한 서비스 모음입니다.
+이 애플리케이션은 http://thdtjsdn.com 에서 제공하는 실행 가능한 서비스 모음입니다.
 아래 주요 기능을 검토하고 해당 버튼을 통해 각 서비스에 접속하세요.
 
 > ZIP으로 다운 받아도 [`resources.dll`](https://github.com/thdtjsdn/thdtjsdn.com--Applicatioon/blob/main/resources.dll) 파일은 개별로 다시 다운 받아서 덮어써야합니다.  
